@@ -8,6 +8,7 @@ namespace labacs8
 {
     public class BlockThree
     {
+        // Сложение двух массивов
         static int[][] ModificattionInJugArray(int[][] fArr, int[][] sArr)
         {
             int[][] nArr = new int[fArr.Length][];
@@ -24,6 +25,7 @@ namespace labacs8
             }
             return nArr;
         }
+        // Модификация второго массива в квадратную матрицу.
         static int[][] ModificationInSecondArray(int[][] fArr, int[][] sArr)
         {
             int[][] nSArray = new int[fArr.Length][];
