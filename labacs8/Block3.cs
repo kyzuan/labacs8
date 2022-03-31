@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace laba_2
+namespace labacs8
 {
-    internal class Block3
-    {
-        
+    public class Block3
+    {    
         static void InitSecondArray(int[,] arr)
         {
-
             int[][] zubArray = new int[arr.GetLength(0)][];
             int count = 0;
             for (int i = 0; i < arr.GetLength(0); i++)

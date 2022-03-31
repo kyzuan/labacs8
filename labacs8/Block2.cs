@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace laba_2
+namespace labacs8
 {
-
-    internal class Block2
+    public class Block2
     {
         static int[][] ModificationInJagArray(int[][] zubArray)
         {

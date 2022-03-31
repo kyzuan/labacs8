@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace laba_2
+namespace labacs8
 {
-    internal class Block1
+    public class Block1
     {
         static int[] RandFillArray(int n)
         {

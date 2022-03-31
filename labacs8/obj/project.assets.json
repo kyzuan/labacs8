@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\heivus\\source\\repos\\labacs8\\labacs8\\labacs8.csproj",
+      "projectUniqueName": "C:\\Users\\heivus\\Documents\\git\\labacs8\\labacs8\\labacs8.csproj",
       "projectName": "labacs8",
-      "projectPath": "C:\\Users\\heivus\\source\\repos\\labacs8\\labacs8\\labacs8.csproj",
+      "projectPath": "C:\\Users\\heivus\\Documents\\git\\labacs8\\labacs8\\labacs8.csproj",
       "packagesPath": "C:\\Users\\heivus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\heivus\\source\\repos\\labacs8\\labacs8\\obj\\",
+      "outputPath": "C:\\Users\\heivus\\Documents\\git\\labacs8\\labacs8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\heivus\\AppData\\Roaming\\NuGet\\NuGet.Config",
