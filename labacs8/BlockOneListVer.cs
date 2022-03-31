@@ -24,7 +24,7 @@ namespace labacs8
             Random random = new Random();
             var nList = new List<int>();
             Console.WriteLine();
-            Console.WriteLine("Введите количество символов которое должно быть в массиве: ");
+            Console.WriteLine("Введите размерность одномерного массива(List Version): ");
             int count = int.Parse(Console.ReadLine());
             for (int i = 0; i < count; i++)
             {            
@@ -44,6 +44,7 @@ namespace labacs8
             var nList = InitArray();
             ShowArray(nList);
             Console.WriteLine();
+            Console.WriteLine("Результат выполнения программы: ");
             ShowArray(ModificationInArray(nList));
             
         }

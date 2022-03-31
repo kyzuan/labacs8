@@ -60,7 +60,7 @@ namespace labacs8
             }
         }
         public static void DoBlock()
-        {
+        {  
             Console.WriteLine("Введите размерность одномерного массива: ");
             int n = int.Parse(Console.ReadLine());
             int[] array = RandFillArray(n);

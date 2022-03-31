@@ -22,7 +22,9 @@ namespace labacs8
                 {
                     nArr[i][j] = fArr[i][j] + sArr[i][j];
                 }
+                Array.Reverse(nArr[i]);
             }
+            
             return nArr;
         }
         // Модификация второго массива в квадратную матрицу.
@@ -112,5 +114,7 @@ namespace labacs8
             Console.WriteLine("Результат после сложения двух массивов:");
             ShowJagArray(ModificattionInJugArray(fArr, ModificationInSecondArray(fArr,sArr)));
         }
+        
+        
     }
 }
